@@ -46,11 +46,3 @@ This system can be applied in various fields for personal use, such as:
 
 This README provides a high-level overview of the system depicted in the diagram. Specific implementation details and technologies used may vary.
 
----
-Feel free to modify or expand this README to fit your specific needs and project details. You can add sections for:
-
-- **Installation Instructions:** How to set up and run the system.
-- **API Usage:** Details on how to interact with the APIs.
-- **Configuration:** Options for customizing the system.
-- **Examples:** Demonstrating how to use the system for different tasks.
-- **Contributing:** Guidelines for contributing to the project.
